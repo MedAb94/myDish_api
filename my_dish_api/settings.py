@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-82)*=5ekv(p0hfqrl-@aemv&19=^8^75m67$24q6zu5p%b3qh^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://mydish-api.herokuapp.com']
 CORS_ORIGIN_WHITELIST = ['*']
 
 # Application definition
